@@ -1,4 +1,4 @@
 CREATE TABLE t1 (
     id INTEGER,
-    name VARCHAR(256) DEFAULT ''
+    name VARCHAR(256) NOT NULL DEFAULT ''
 );
